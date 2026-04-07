@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Cafooze Restro Cafe icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7c98d"/>
+      <stop offset="100%" stop-color="#9e5d31"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="#140b08"/>
+  <circle cx="64" cy="64" r="46" fill="url(#bg)" opacity="0.16"/>
+  <path d="M42 39h44v8H70v26c0 8-6 14-14 14s-14-6-14-14V39Zm48 12h8c9 0 16 7 16 16s-7 16-16 16h-6v-8h6c4 0 8-4 8-8s-4-8-8-8h-8v-8Z" fill="#f7e9da"/>
+  <path d="M49 30c7 4 8 10 3 18" fill="none" stroke="#f7c98d" stroke-linecap="round" stroke-width="6"/>
+  <path d="M64 26c7 4 8 10 3 18" fill="none" stroke="#f7c98d" stroke-linecap="round" stroke-width="6"/>
+  <path d="M79 30c7 4 8 10 3 18" fill="none" stroke="#f7c98d" stroke-linecap="round" stroke-width="6"/>
+</svg>

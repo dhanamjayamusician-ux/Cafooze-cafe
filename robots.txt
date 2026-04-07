@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cafooze-restro-cafe.business.site/sitemap.xml
